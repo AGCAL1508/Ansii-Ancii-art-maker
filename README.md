@@ -1,4 +1,4 @@
-# Ansii-Ancii-art-maker
+# Ansi-Ancii-art-maker
 Run the colors_test file to start.
 Make sure to use vscode, and the fontsize of the terminal is set to the lowest, that is 6.
 just change the "Image.webp" to any image
